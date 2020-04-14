@@ -1,0 +1,14 @@
+pl\kaminski\soapconsumer\consumingwebservice\wsdl\Exercise.class
+pl\kaminski\soapconsumer\wsdlclass\wsdl\ObjectFactory.class
+pl\kaminski\soapconsumer\wsdlclass\wsdl\RegisterCallRequest.class
+pl\kaminski\soapconsumer\consumingwebservice\wsdl\RegisterCallResponse.class
+pl\kaminski\soapconsumer\consumingwebservice\wsdl\ResultsRequest.class
+pl\kaminski\soapconsumer\wsdlclass\wsdl\Exercise.class
+pl\kaminski\soapconsumer\wsdlclass\wsdl\RegisterCallResponse.class
+pl\kaminski\soapconsumer\consumingwebservice\wsdl\package-info.class
+pl\kaminski\soapconsumer\wsdlclass\wsdl\ResultsResponse.class
+pl\kaminski\soapconsumer\wsdlclass\wsdl\package-info.class
+pl\kaminski\soapconsumer\consumingwebservice\wsdl\RegisterCallRequest.class
+pl\kaminski\soapconsumer\consumingwebservice\wsdl\ObjectFactory.class
+pl\kaminski\soapconsumer\wsdlclass\wsdl\ResultsRequest.class
+pl\kaminski\soapconsumer\consumingwebservice\wsdl\ResultsResponse.class
